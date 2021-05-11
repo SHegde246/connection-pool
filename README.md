@@ -3,6 +3,10 @@ Design Patterns project in Java
 
 6th semester project
 
+**Title:** Generalised Connection Pool Implementation
+**Patterns used:** Object Pool design pattern, Factory design pattern
+**Language:** Java
+
 In a typical web application server, there will be many threads servicing user requests.  The data needed to service these requests may be in a database. The thread will have to:
 1. Open Connection
 2. Run Query
