@@ -1,8 +1,6 @@
 # DP_Project
 Design Patterns project in Java
 
-6th semester project
-
 **Title:** Generalised Connection Pool Implementation
 
 **Patterns used:** Object Pool design pattern, Factory design pattern
