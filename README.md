@@ -10,7 +10,7 @@ Design Patterns project in Java
 In a typical web application server, there will be many threads servicing user requests.  The data needed to service these requests may be in a database. The thread will have to:
 1. Open Connection
 2. Run Query
-3. Process quesry response
+3. Process query response
 4. Send response to user
 
 Opening a connection to a database is an expensive operation - taking multiple seconds sometimes. Moreover, each database has a limit on the maximum number of connections it can have open at a time. 
